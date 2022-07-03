@@ -25,6 +25,10 @@ class _LiveasyState extends State<Liveasy> {
         backgroundColor: Colors.deepPurpleAccent,
         visualDensity: VisualDensity.adaptivePlatformDensity,
         brightness: Brightness.dark,
+        textTheme: TextTheme(
+          
+
+        ),
       ),
       debugShowCheckedModeBanner: false,
       home: HomePage(),
